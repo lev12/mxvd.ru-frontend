@@ -1,2 +1,1 @@
-# mxvd.ru-frontend
-vue 3
+# mxvd.ru - frontend
